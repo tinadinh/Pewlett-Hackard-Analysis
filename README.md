@@ -9,9 +9,13 @@ The purpose of this project to analyze Pewlett Hackard employee database using P
 ![2](https://user-images.githubusercontent.com/33900637/161869133-4afe5ba3-b1ed-4f60-8564-a4953f3deac9.png)
 
 - The Development and Production department will be impacted the most representing more than half of the retiring employees.
+
 ![3](https://user-images.githubusercontent.com/33900637/161869201-850ce0bc-bb5b-40bd-8296-254cc99cd4c0.png)
+
 - The majority of the employees that were retiring held senior-level positions.
+
 ![4](https://user-images.githubusercontent.com/33900637/161869300-ad255121-9616-471b-a7fd-c38d1397a6ad.png)
+
 - 1,549 employees could be eligible for the mentorship program. If we assume that they will all be willing to participate in the mentorship program, it will imply that each mentor would have an average of 58 mentees, so we can conclude that there is not enough mentors to prepare the next generation of Pewlett Hackard employees.
 
 ## Summary:

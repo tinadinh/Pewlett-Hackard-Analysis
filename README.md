@@ -4,8 +4,10 @@ The purpose of this project to analyze Pewlett Hackard employee database using P
 
 ## Results:
 - 30% of current employees could potentially retire over the next 4 years. An average of 18,000 per year.
+
 ![1](https://user-images.githubusercontent.com/33900637/161869131-01e142c6-d5fa-4e16-b25b-b0b186d53bfe.png)
 ![2](https://user-images.githubusercontent.com/33900637/161869133-4afe5ba3-b1ed-4f60-8564-a4953f3deac9.png)
+
 - The Development and Production department will be impacted the most representing more than half of the retiring employees.
 ![3](https://user-images.githubusercontent.com/33900637/161869201-850ce0bc-bb5b-40bd-8296-254cc99cd4c0.png)
 - The majority of the employees that were retiring held senior-level positions.
